@@ -1,1 +1,1 @@
-# neural_transformer
+# Neural Transformer for Brain data
