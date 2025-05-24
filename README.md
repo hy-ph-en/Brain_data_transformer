@@ -1,6 +1,6 @@
 # Neural Transformer for Brain Data
 
-A collection of Jupyter notebooks implementing and exploring transformer-based neural models on brain and behavioral datasets. The goal of this project is to predict neural activity and behavioral events (e.g., lever pulls) using sequence modeling techniques, apply dimensionality reduction for visualization, and compare different prior configurations and 3D representations.
+A collection of Jupyter notebooks implementing and exploring transformer-based neural models on brain and behavioral datasets. The goal of this project is to predict neural activity and behavioral events (e.g., lever pulls) using sequence modeling techniques, apply dimensionality reduction for visualization, and compare different prior configurations and most importantly retain the 3D representation of the data through the process.
 
 ---
 
